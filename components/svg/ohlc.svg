@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 57 54">
+  <title>ohlc</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" >
+      <g>
+        <rect x="20" y="9" width="3" height="45"/>
+        <rect x="33" width="3" height="45"/>
+        <rect x="34" y="10" width="23" height="3"/>
+        <rect y="42" width="23" height="3"/>
+      </g>
+    </g>
+  </g>
+</svg>
