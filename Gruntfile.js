@@ -31,7 +31,6 @@ module.exports = function (grunt) {
             }
         }, //stylus
 
-
         postcss: {
             options: {
                 processors: [
@@ -48,7 +47,6 @@ module.exports = function (grunt) {
             }
 
         }, //postcss
-
 
         connect: {
             sever: {
@@ -71,10 +69,9 @@ module.exports = function (grunt) {
                     'components/scripts/**/*.js',
                     'components/svg/**/*.svg',
                     'components/stylus/**/*.styl'],
-                tasks: ['svgo', 'stylus', 'postcss']
+                tasks: ['stylus', 'postcss']
             }
-        }
-
+        } //watch
 
     }); //initConfig
 
